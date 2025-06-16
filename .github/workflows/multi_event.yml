@@ -11,6 +11,7 @@ on:
         types:
             - closed
             - opened
+            
     
     workflow_dispatch:
    
